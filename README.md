@@ -55,15 +55,7 @@ const rochita = {
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/rochita07/rochita07/issues/1#issuecomment-new"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
-</div>
 
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-
-<!-- /Guestbook -->
 
 <!-- Footer -->
 
@@ -80,12 +72,3 @@ const rochita = {
 
 
 
-
-
-
-<!---
-rochita07/rochita07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
---->
