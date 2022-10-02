@@ -27,6 +27,10 @@ const rochita = {
 }
 ```
 
+![Rochita's github stats](https://github-readme-stats.vercel.app/api?username=rochita07&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rochita07.rochita07)
+
 ---
 
 
