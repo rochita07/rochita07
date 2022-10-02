@@ -32,7 +32,7 @@ const rochita = {
 
 ![Rochita's github stats](https://github-readme-stats.vercel.app/api?username=rochita07&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rochita07.rochita07)
+
 
 
 
@@ -47,7 +47,7 @@ const rochita = {
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/music.gif"> 
 </a>
 </p>
 
@@ -56,7 +56,7 @@ const rochita = {
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
@@ -77,14 +77,8 @@ const rochita = {
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+    
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rochita07.rochita07)
 
 </div>
 ---
