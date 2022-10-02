@@ -1,4 +1,5 @@
-<img  src="https://[media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)" width="512">
+<img src="https://github.com/rochita07/rochita07/blob/main/coding_gif.gif" width="512" >
+
 
 ##  নমস্কার (Namaskar)🙏, I'm Rochita Das 
 ##  PhD Student in Statistics at Texas A&M
