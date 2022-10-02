@@ -76,7 +76,7 @@ const rochita = {
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rochita07/count.svg)
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rochita07.rochita07)
 
