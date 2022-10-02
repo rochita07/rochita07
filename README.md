@@ -56,7 +56,7 @@ const rochita = {
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
+<a href="https://github.com/rochita07/rochita07/issues/1#issuecomment-new"><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
