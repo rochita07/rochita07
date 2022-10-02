@@ -1,4 +1,4 @@
-<img src="https://github.com/rochita07/rochita07/blob/main/coding_gif.gif" width="512" >
+<img align='right' src="https://github.com/rochita07/rochita07/blob/main/coding_gif.gif" width="230" >
 
 
 ##  নমস্কার (Namaskar)🙏, I'm Rochita Das 
