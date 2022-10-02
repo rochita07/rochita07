@@ -1,11 +1,11 @@
-<img align='right' src="https://[media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)" width="130">
+<img  src="https://[media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)" width="512">
 
 ##  নমস্কার (Namaskar)🙏, I'm Rochita Das 
 ##  PhD Student in Statistics at Texas A&M
 ##  Interested in Bayesian Statistics, Machine Learning, Deep Learning, Data visualization - overall to tell a compelling story from the raw messy data
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/rochitadas/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:rochita.das.stat@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-rochitadas-blue)](https://www.linkedin.com/in/rochitadas/)
+[![](https://img.shields.io/badge/Gmail-rochita.das.stat@gmail.com-red)](mailto:rochita.das.stat@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
