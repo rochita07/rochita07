@@ -78,7 +78,6 @@ const rochita = {
 
 ![Visitor Count](https://profile-counter.glitch.me/rochita07/count.svg)
     
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rochita07.rochita07)
 
 </div>
 ---
