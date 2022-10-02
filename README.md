@@ -1,19 +1,33 @@
-- 👋 Hi, I’m @rochita07
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+## नमस्ते 🙏, I'm ASHRAF K.M 
+## Full Stack Developer 👨‍💻
+
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
 
-### Hi there 👋, Rochita Das
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+```javascript
+const ashraf = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python"],
+        fronEnd: ["angular"],
+        mobileApp: ["ionic","angular"],
+        database: ["mongo","mySql"],
+        serverless: ["mongo-realm","aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
 
-Skills: R/ Python
+---
 
-- 🔭 I’m currently working on this page. 
 
 
 
@@ -22,4 +36,6 @@ Skills: R/ Python
 <!---
 rochita07/rochita07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+⭐️ From [@ashrafkm](https://github.com/ashrafkm)
 --->
