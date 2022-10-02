@@ -5,7 +5,9 @@
 ##  PhD Student in Statistics at Texas A&M
 
 [![](https://img.shields.io/badge/LinkedIn-rochitadas-blue)](https://www.linkedin.com/in/rochitadas/)
+
 [![](https://img.shields.io/badge/Website-rochitadas-green)](https://rochita07.github.io/rochitadas.github.io/generic.html)
+
 [![](https://img.shields.io/badge/Gmail-rochita.das.stat@gmail.com-red)](mailto:rochita.das.stat@gmail.com)
 
 
@@ -36,22 +38,6 @@ const rochita = {
 
 <!-- Social -->
 <table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
