@@ -1,6 +1,6 @@
-<img align='right' src="https://[media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)" width="230">
+<img align='right' src="https://[media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif)" width="130">
 
-##  নমস্কার (Namaste)🙏, I'm Rochita Das 
+##  নমস্কার (Namaskar)🙏, I'm Rochita Das 
 ##  PhD Student in Statistics at Texas A&M
 ##  Interested in Bayesian Statistics, Machine Learning, Deep Learning, Data visualization - overall to tell a compelling story from the raw messy data
 
