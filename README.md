@@ -14,10 +14,10 @@
 |---|---|---|---|
 
 
+## My Tech Stack
 
 
-
-### Programming Languages :computer:
+#### Programming Languages :computer:
 
 
 | <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
@@ -32,13 +32,13 @@
 
 
 
-### Database and Visualisation :chart_with_upwards_trend:
+#### Database and Visualisation :chart_with_upwards_trend:
 
 | <img src="https://github.com/rochita07/rochita07/blob/main/MySQL_logo.png" alt="MySQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/post_sql_logo.jpg" alt="Postgre SQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Excel_logo.png" alt="Excel logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Power_BI_logo.jpg" alt="Power BI logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Tableau_logo.png" alt="tableau logo" width="50"> |
 |---|---|---|---|---|
 
 
-### Clouds :thought_balloon:
+#### Clouds :thought_balloon:
 
 
 | <img src="https://github.com/rochita07/rochita07/blob/main/Databricks_logo.png" alt="Databricks logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Google_cloud_logo.jpg" alt="Google Cloud logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Apache_Spark_logo.png" alt="Apache Spark logo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Microsoft_Azure_logo.png" alt="Azurelogo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Hadoop_logo.jpg" alt="Hadoop logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Docker_logo.png" alt="Docker logo" width="50"> |
