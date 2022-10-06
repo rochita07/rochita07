@@ -23,8 +23,8 @@
 |---|---|---|---|---|
 
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> |
-|---|---|---|
+| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> |
+|---|---|---|---|
 
 <!-- <img src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png"
  <img
