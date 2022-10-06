@@ -9,7 +9,7 @@
 
 ## My Social:
 
-| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="24">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="24">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="GitHub logo" width="24">](https://github.com/rochita07) |  [<img src="https://github.com/rochita07/rochita07/blob/main/LinkedIn_logo.png" alt="LinkedIn logo" width="24">]([https://www.rust-lang.org/](https://www.linkedin.com/in/rochitadas))|
 |---|---|---|
 
 
