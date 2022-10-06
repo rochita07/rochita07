@@ -33,7 +33,7 @@
 
 ### Database and Visualisation
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/JMP_logo.png" alt="JMP logo" width="50"> |
+| <img src="https://github.com/rochita07/rochita07/blob/main/MySQL_logo.png" alt="MySQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/post_sql_logo.jpg" alt="Postgre SQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Excel_logo.png" alt="Excel logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Power_BI_logo.jpg" alt="Power BI logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Tableau_logo.png" alt="tableau logo" width="50"> |
 |---|---|---|---|---|
 
 
