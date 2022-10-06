@@ -1,7 +1,7 @@
 <img align='right' src="https://github.com/rochita07/rochita07/blob/main/coding_gif.gif" width="230" >
 
 
-##  নমস্কার (Namaskar)🙏, I'm Rochita Das 
+<!-- ##  নমস্কার (Namaskar)🙏, I'm Rochita Das -->
 ##  PhD Student in Statistics at Texas A&M
 
 [![](https://img.shields.io/badge/LinkedIn-rochitadas-blue)](https://www.linkedin.com/in/rochitadas/)
