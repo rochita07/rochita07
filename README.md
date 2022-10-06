@@ -14,52 +14,7 @@
 
 
 
-
-<!-- ## My Tech Stack
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">	  
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-
-  </tbody>
-</table> -->
-
-
+     
 
 ### Programming Languages 🌐
 
@@ -68,10 +23,10 @@
 |---|---|---|---|---|
 
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | 
-|---|
-<!-- <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img 
-src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50"> | 
+| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img 
+src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> |
+|---|---|---|
+<!-- <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50"> | 
 |---|---|---|---|---| -->
 
 <!-- | <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
