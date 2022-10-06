@@ -23,12 +23,10 @@
 |---|---|---|---|---|
 
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50">
-|---|---|---|---|
+| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50"> <img src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> |
+|---|---|---|---|---|
 
-<!-- <img src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> | 
- <img
-src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50">alt="Matlab logo" width="50"> | 
+<!-- <img src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50"> |
 |---|---|---|---|---| -->
 
 <!-- | <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
