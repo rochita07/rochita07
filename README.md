@@ -18,8 +18,7 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>Website</strong></span><br><br><br>
-        <img height="64px" src="website_logo.jpg">
-	 <[Click Here](https://github.com/rochita07/rochita07/blob/main/website_logo.jpg)>
+        <[img height="64px" src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg"](https://rochita07.github.io/rochitadas.github.io/)>
       </td>
       <td width="25%" align="center">
         <span><strong>GitHub</strong></span><br><br><br>
