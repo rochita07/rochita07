@@ -9,28 +9,8 @@
 
 ## My Social:
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-	      <span><strong>LinkedIn</strong></span><br><br><br>
-        <img height="100px" src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>Website</strong></span><br><br><br>
-        <[img height="64px" src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg"](https://rochita07.github.io/rochitadas.github.io/)>
-      </td>
-      <td width="25%" align="center">
-        <span><strong>GitHub</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Medium</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
-  </tbody>
-</table>
+| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="24">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+|---|---|---|
 
 
 
