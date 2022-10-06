@@ -22,7 +22,8 @@
     <tr valign="top">
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
-        [<img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">][Click Here](https://github.com/rochita07)>
+        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+	      <[Click Here](https://github.com/rochita07)>
       </td>
       <td width="25%" align="center">
 	      <span><strong>AWS</strong></span><br><br><br>
