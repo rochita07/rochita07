@@ -64,10 +64,11 @@
 ### Programming Languages 🌐
 
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="40"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="40"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="40">  |  <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="git logo" width="40"> |  <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="40"> | 
+| <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50">  |  <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> |  <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
 |---|---|---|---|---|
 
-| <img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24"> | <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png" alt="go logo" width="24"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">  |  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c logo" width="24"> |  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24"> | 
+
+| <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50">  |  <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> |  <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
 |---|---|---|---|---|
 
 
