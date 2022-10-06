@@ -39,8 +39,7 @@
 
 ### Clouds 🛠️
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/Databricks_logo.png" alt="Databricks logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Google_cloud_logo.jpg" alt="Google Cloud logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Apache_Spark_logo.png" alt="Apache Spark logo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Microsoft_Azure_logo.png" alt="Azurelogo" width="50"> |
-<img src="https://github.com/rochita07/rochita07/blob/main/Hadoop_logo.jpg" alt="Hadoop logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Docker_logo.png" alt="Docker logo" width="50"> |
+| <img src="https://github.com/rochita07/rochita07/blob/main/Databricks_logo.png" alt="Databricks logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Google_cloud_logo.jpg" alt="Google Cloud logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Apache_Spark_logo.png" alt="Apache Spark logo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Microsoft_Azure_logo.png" alt="Azurelogo" width="50"> |<img src="https://github.com/rochita07/rochita07/blob/main/Hadoop_logo.jpg" alt="Hadoop logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Docker_logo.png" alt="Docker logo" width="50"> |
 |---|---|---|---|---|---|
 
 
