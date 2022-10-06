@@ -4,9 +4,9 @@
 <!-- ##  নমস্কার (Namaskar)🙏, I'm Rochita Das -->
 ## Hi, I'm Rochita. Welcome to my GitHub.
 
-##  PhD Student in Statistics at Texas A&M
+##  PhD Student in Statistics at Texas A&M  <br/>
 
-\vspace{12pt}
+
 
 ## My Social 📫
 
@@ -15,9 +15,9 @@
 
 
 
-\vspace{12pt}
 
-### Programming Languages 🌐
+
+### Programming Languages :computer:
 
 
 | <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
@@ -32,7 +32,7 @@
 
 
 
-### Database and Visualisation
+### Database and Visualisation :chart_with_upwards_trend:
 
 | <img src="https://github.com/rochita07/rochita07/blob/main/MySQL_logo.png" alt="MySQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/post_sql_logo.jpg" alt="Postgre SQL logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Excel_logo.png" alt="Excel logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Power_BI_logo.jpg" alt="Power BI logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Tableau_logo.png" alt="tableau logo" width="50"> |
 |---|---|---|---|---|
