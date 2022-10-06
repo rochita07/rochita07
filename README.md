@@ -18,7 +18,8 @@
       </td>
       <td width="25%" align="center">
 	      <span><strong>Website</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+        <img height="64px" src="website_logo.jpg">[[Link](https://rochita07.github.io/rochitadas.github.![image](https://user-images.githubusercontent.com/42886269/194381317-b27ce8cb-6880-4408-be4a-0d57f654eb13.png)
+io/)](Click Here)
       </td>
       <td width="25%" align="center">
         <span><strong>GitHub</strong></span><br><br><br>
