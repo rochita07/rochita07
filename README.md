@@ -9,7 +9,7 @@
 
 ## My Social:
 
-| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="70">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="GitHub logo" width="70">](https://github.com/rochita07) |  [<img src="https://github.com/rochita07/rochita07/blob/main/LinkedIn_logo.png" alt="LinkedIn logo" width="70">](https://www.linkedin.com/in/rochitadas)| [<img src="https://github.com/rochita07/rochita07/blob/main/medium_logo.png" alt="Medium logo" width="70">](https://medium.com/@rochita.das)|
+| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="50">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="GitHub logo" width="50">](https://github.com/rochita07) |  [<img src="https://github.com/rochita07/rochita07/blob/main/LinkedIn_logo.png" alt="LinkedIn logo" width="50">](https://www.linkedin.com/in/rochitadas)| [<img src="https://github.com/rochita07/rochita07/blob/main/medium_logo.png" alt="Medium logo" width="50">](https://medium.com/@rochita.das)|
 |---|---|---|---|
 
 
@@ -68,8 +68,10 @@
 |---|---|---|---|---|
 
 
-| <img src="https://github.com/rochita07/rochita07/blob/main/R_logo.png" alt="R logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/Python_logo.png" alt="Python logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/VS_code_logo.png" alt="VSCode logo" width="50">  |  <img src="https://github.com/rochita07/rochita07/blob/main/git_logo.png" alt="Git logo" width="50"> |  <img src="https://github.com/rochita07/rochita07/blob/main/html_logo.png" alt="HTML logo" width="50"> | 
-|---|---|---|---|---|
+| <img src="https://github.com/rochita07/rochita07/blob/main/SAS_logo.png" alt="SAS logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/C_logo.png" alt="C logo" width="50"> | <img 
+src="https://github.com/rochita07/rochita07/blob/main/spss.png" alt="SPSS logo" width="50">  |  <img src="https://github.com/rochita07/rochita07/blob/main/Minitab_logo.jpg" alt="Minitab logo" width="50"> |  <img src="https://github.com/rochita07/rochita07/blob/main/MATLAB_logo.png" alt="Matlab logo" width="50"> | <img src="https://github.com/rochita07/rochita07/blob/main/JMP_logo.png" alt="JMP logo" width="50"> |
+
+|---|---|---|---|---|---|
 
 
 
