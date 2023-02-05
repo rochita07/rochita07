@@ -10,7 +10,7 @@
 
 ## My Social 📫
 
-| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="50">](https://rochita07.github.io/rochitadas.github.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="GitHub logo" width="50">](https://github.com/rochita07) |  [<img src="https://github.com/rochita07/rochita07/blob/main/LinkedIn_logo.png" alt="LinkedIn logo" width="50">](https://www.linkedin.com/in/rochitadas)| [<img src="https://github.com/rochita07/rochita07/blob/main/medium_logo.png" alt="Medium logo" width="50">](https://medium.com/@rochita.das)|
+| [<img src="https://github.com/rochita07/rochita07/blob/main/website_logo.jpg" alt="Website logo" width="50">](https://rochita07.github.io/)  | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="GitHub logo" width="50">](https://github.com/rochita07) |  [<img src="https://github.com/rochita07/rochita07/blob/main/LinkedIn_logo.png" alt="LinkedIn logo" width="50">](https://www.linkedin.com/in/rochitadas)| [<img src="https://github.com/rochita07/rochita07/blob/main/medium_logo.png" alt="Medium logo" width="50">](https://medium.com/@rochita.das)|
 |---|---|---|---|
 
 
