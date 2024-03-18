@@ -50,13 +50,15 @@
 
 
 
-![Rochita's github stats](https://github-readme-stats.vercel.app/api?username=rochita07&hide=["issues"]&show_icons=true)
+<!-- ##   ![Rochita's github stats](https://github-readme-stats.vercel.app/api?username=rochita07&hide=["issues"]&show_icons=true)  -->
 
 
 
 
 
 <!-- Social -->
+
+<!--
 <table width="100%" align="center">
 
 <td align="center">
@@ -74,7 +76,7 @@
 </td>
 </tr>
 </table>
-
+-->
 
 
 <!-- Footer -->
